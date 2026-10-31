@@ -1,0 +1,66 @@
+{
+  "version": "1.0.0",
+  "binder_name": "Asdale Household Paper Binder",
+  "documents": [
+    {
+      "id": "doc-0001",
+      "title": "House deed - 123 Maple Street",
+      "doc_type": "deed",
+      "container": "binder",
+      "container_name": "Fireproof Home Binder",
+      "tab": "Housing",
+      "copy_locations": ["Fire safe", "Cloud scan: housing folder"],
+      "refresh_interval_days": 365,
+      "last_refreshed": "2026-01-15",
+      "notes": "Deed arrived at closing; scan checked against paper copy."
+    },
+    {
+      "id": "doc-0002",
+      "title": "Car title - Honda Odyssey",
+      "doc_type": "title",
+      "container": "binder",
+      "container_name": "Fireproof Home Binder",
+      "tab": "Vehicles",
+      "copy_locations": [],
+      "refresh_interval_days": 365,
+      "last_refreshed": "2026-03-02",
+      "notes": "Original pink slip only. Needs a scan."
+    },
+    {
+      "id": "doc-0003",
+      "title": "Passport - Dylan Asdale",
+      "doc_type": "passport",
+      "container": "safe",
+      "container_name": "Fire safe, bedroom closet",
+      "tab": "",
+      "copy_locations": ["Second safe at parents' house"],
+      "refresh_interval_days": 365,
+      "last_refreshed": "2026-04-10",
+      "notes": "Second copy held out-of-state."
+    },
+    {
+      "id": "doc-0004",
+      "title": "Homeowners' insurance policy",
+      "doc_type": "policy",
+      "container": "binder",
+      "container_name": "Fireproof Home Binder",
+      "tab": "Insurance",
+      "copy_locations": ["Agent's office"],
+      "refresh_interval_days": 90,
+      "last_refreshed": "2026-06-01",
+      "notes": "Agent keeps a duplicate in their file."
+    },
+    {
+      "id": "doc-0005",
+      "title": "Birth certificate - smallest Asdale",
+      "doc_type": "birth certificate",
+      "container": "drawer",
+      "container_name": "Garage file cabinet",
+      "tab": "Certificates",
+      "copy_locations": [],
+      "refresh_interval_days": 180,
+      "last_refreshed": "2026-05-20",
+      "notes": "Drawer 3. Seal-heavy original plus a Photocopy of record."
+    }
+  ]
+}
